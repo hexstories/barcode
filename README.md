@@ -1,3 +1,5 @@
+## Project Structure
+
 # Django Barcode Generator
 
 This is a simple Django project for generating and storing barcodes. It includes a Django app to generate barcodes, save them to the database, and manage them through the Django admin interface.
